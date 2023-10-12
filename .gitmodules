@@ -1,0 +1,3 @@
+[submodule "api/APIGateway"]
+	path = api/APIGateway
+	url = https://github.com/Nilaycloudengineer/lulu02_Api_microservices_communication.git
